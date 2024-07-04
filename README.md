@@ -1,2 +1,3 @@
 # GauravHub
-"My personal repository"
+
+Hi 👋, I'm Gaurav Bhendarkar
