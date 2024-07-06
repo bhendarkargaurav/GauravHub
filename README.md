@@ -1,3 +1,2 @@
 # GauravHub
-
-Hi 👋, I'm Gaurav Bhendarkar
+<h1>Hi 👋, I'm Gaurav Bhendarkar</h1>
